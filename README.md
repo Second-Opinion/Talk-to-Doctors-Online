@@ -1,0 +1,2 @@
+# Talk-to-Doctors-Online
+The second opinion is the online doctor consulting app by which doctors directly connect to the patient through the mobile app. The user can easily upload the (MRI, CT, X-Ray, mammogram, ultrasound, or nuclear medicine ) file, then the second opinion helps you to have the correct diagnosis faster and eliminate unwanted procedures and surgeries. People can video chat with the doctors and consult doctors online in this app. Download the app! Available in iOS &amp; Android.- https://www.asksecondopinion.com/
